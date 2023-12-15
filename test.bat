@@ -1,1 +1,1 @@
-npx mocha test/what-season.test.js > test.log
+npx mocha test/transform-array.test.js > test.log
